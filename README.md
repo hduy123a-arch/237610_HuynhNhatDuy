@@ -2,7 +2,7 @@
 
 - Họ tên: Huỳnh Nhật Duy
 - MSSV: 237610
-- Lớp: (điền lớp của bạn)
+- Lớp:DH23TIN09
 
 ## Mô tả
 Hệ thống quản lý nhân sự: xem, thêm, tìm kiếm, cập nhật, xóa hồ sơ nhân viên.
@@ -20,4 +20,4 @@ React, Node.js, Express, MongoDB Atlas, Docker, Docker Hub, Render, Git/GitHub.
 - Docker Hub Frontend: (điền sau)
 - Render App: (điền sau)
 - Render API: (điền sau)
-- MongoDB Atlas: (điền sau)
+- MongoDB Atlas: mongodb+srv://237610_HuynhNhatDuy:hduy0601@cluster0.dheunxk.mongodb.net/
